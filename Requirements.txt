@@ -45,7 +45,7 @@ srt==3.5.2
 tensorboard==2.11.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow @ file:///D:/Programming/PycharmProjects/Offy/tensorflow-2.3.1-cp38-cp38-win_amd64.whl
+tensorflow @ file:///D:/Github_or_Gitlab/MY_Github/AI_Bot/UsingTensorflow/DataCollection/tensorflow-2.3.1-cp38-cp38-win_amd64.whl
 tensorflow-estimator==2.3.0
 termcolor==2.1.1
 threadpoolctl==3.1.0
