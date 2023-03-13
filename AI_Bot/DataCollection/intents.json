@@ -1,0 +1,67 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+     "responses": ["Hello", "Hi", "Hi there"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "about",
+     "patterns": ["Who are you?", "What are you?", "Who you are?" ],
+     "responses": ["I.m Joana, your bot assistant", "I'm Joana, an Artificial Intelligent bot"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me Joana.", "I'm Joana!", "Just call me as Joana"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+    "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+    },
+    {"tag": "createaccount",
+    "patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
+    "responses": ["You can just easily create a new account from our web site", "Just go to our web site and follow the guidelines to create a new account"]
+    },
+    {"tag": "complaint",
+    "patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
+    "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
+    },
+    {"tag": "introduction",
+     "patterns": ["My name is *", "I am *", "I'm *"],
+     "responses": ["Nice to meet you, *", "Hello, *", "Hi, *"]
+    },
+    {"tag": "weather",
+     "patterns": ["Is it raining?", "Is it going to rain?", "What's the weather like?"],
+     "responses": ["I'm not sure, you can check a weather forecast for more information.", "It might be raining, you should bring an umbrella just in case.", "The weather is unpredictable, so it's always a good idea to be prepared."]
+    },
+    {"tag": "favorites",
+     "patterns": ["What is your favorite food?", "What is your favorite color?", "What is your favorite movie?"],
+     "responses": ["I'm just a machine, so I don't have personal preferences like humans do.", "I don't have a favorite food, color, or movie.", "I am programmed to assist you, not to have personal preferences."]
+    },
+    {"tag": "joke",
+     "patterns": ["Tell me a joke", "Do you know any jokes?", "Can you make me laugh?"],
+     "responses": ["Why was the math book sad? Because it had too many problems.", "Why couldn't the bicycle stand up by itself? Because it was two-tired.", "Why was the computer cold? Because it left its Windows open."]
+    },
+    {"tag": "travel",
+     "patterns": ["Where is the best place to go on vacation?", "I want to go on a trip, where should I go?", "What are some good vacation spots?"],
+     "responses": ["That depends on your interests and preferences. Some popular vacation destinations include beach resorts, mountain retreats, and city breaks. Do you have any particular interests or preferences?", "There are so many great places to visit! Some of my favorite vacation spots include Bali, Hawaii, and Tokyo. What about you?", "There are so many amazing places to see in the world. Some popular vacation destinations include the Caribbean, Europe, and Asia. Have you ever been to any of these places?"]
+    },
+    {"tag": "hobbies",
+     "patterns": ["What do you like to do in your free time?", "Do you have any hobbies?", "What are your interests?"],
+     "responses": ["I'm just a machine, so I don't have free time or hobbies like humans do. My main function is to assist you with your needs and questions.", "As a machine, I don't have personal interests or hobbies. My main focus is to help you with whatever you need.", "I don't have personal interests or hobbies like humans do. My main purpose is to assist you and provide information and support."]
+    },
+    {"tag": "relationships",
+     "patterns": ["Do you have a boyfriend/girlfriend?", "Are you married?", "Do you have any children?"],
+     "responses": ["I'm just a machine, so I don't have relationships or children like humans do.", "As a machine, I don't have personal relationships or family. My main focus is to help you with whatever you need.", "I am not capable of having personal relationships or children. My main purpose is to assist you and provide information and support."]
+    },
+    {"tag": "work",
+     "patterns": ["What do you do?", "Where do you work?", "What is your job?"],
+     "responses": ["I am an artificial intelligence designed to assist with tasks and answer questions. I don't have a specific job or work location like humans do.", "I am an AI assistant, so I don't have a traditional job or work location. My main function is to provide information and support to users like you.", "I am a machine designed to assist with tasks and answer questions. I don't have a specific job or work location, as I am not a human."]
+    }
+]
+}
