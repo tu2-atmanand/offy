@@ -2,7 +2,9 @@
 
 ## Overview
 
-The main idea behind this project was to create an oflline software which will be like a friendly chatbot to talk with and which will also be able to do the basic tasks on PC through Speech interaction. It uses 2 ML models.
+The main idea behind this project was to create an oflline software which will be like a friendly chatbot to talk with and which will also be able to do the basic tasks on PC through Speech interaction.This is using noraml Machine Learnign technology as of now, but i have to use **GPT** technology in this project.
+
+It uses 2 ML models.
 The main features of this  project : 
 1. **Offline** : It is completely offline to use on your personal computers, so it ensures privacy; and hence also improving the speed compared to using API services. Only to search on internet it will need internet connectivity.
 2. **Continuous** : This Chatbot will work contineously till you stop it. Unlike other Voice assistants, you dont have to call its name again and again to use it, so its almost like talking to a real human friend.
