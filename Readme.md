@@ -38,9 +38,6 @@ I have used Divide and Concure Approach here so that i can built the whole final
 
 
 
-
-
-
 ## Future Ideas
 
-- Improving the AI, to remember past conversation and react accordingly.
+- Improving the AI, to remember past conversation and react accordingly. This can be done using a file/database stored on a disk or the nerual network architecture be such that, whenever any new information comes, which seems important and needs to be remebered, the models neurons gets updated to hardcode the new data. The later one looks way complicated.
