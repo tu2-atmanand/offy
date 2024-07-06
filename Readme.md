@@ -17,9 +17,9 @@ The project is comprised of mainly three subprojects or technologies :
 
 1. **Speech Recognition** : This is a component used to convert speech to text. The Speech collected from a person is captured using microphone and the converted text is sent to the next component AI Bot. This component is build using the prebuilt project by [vosk](https://github.com/alphacep/vosk-api). I have used final built model here, the main project is [Here](https://github.com/tu2-atmanand/Speech_Recognition).
 
-2. **AI Bot** : This is the main brain of the whole project. This is built using Machine Learning. Here i have used the  final built model, the main project is [Here](https://github.com/tu2-atmanand/AI_Bot).
+2. **AI Bot** : This is the main brain of the whole project. This is built using Machine Learning. Here i have used the  final built model, the main project is [Here](https://github.com/tu2-atmanand/Offy-Brain).
 
-3. **Text To Speech** : This component is used to convert the output of the AI into speech. You can read the documentation and todo of this project [[Here]].
+3. **Text To Speech** : This component is used to convert the output of the AI into speech. You can read the documentation and todo of this project [Here](https://github.com/tu2-atmanand/Text_To_Speech).
 
 
 I have used Divide and Concure Approach here so that i can built the whole final product efficiently. I have  broke this main project as subprojects, which you can follow to by clicking the respective links. The two are itself big projects so i kept them seperate and using only their final build ML models in this project direclty in this.
